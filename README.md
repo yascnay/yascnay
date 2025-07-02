@@ -47,7 +47,7 @@ I'm curious, detail-oriented, and always eager to learn and improve. I love find
 ### 👟 Nike Sales Dashboard (Excel)
 
 <p align="center">
-  <img src="nike_dashboard_smaller.png" width="200" alt="Nike Excel Dashboard" />
+  <img src="nike_dashboard.png" width="300" alt="Nike Excel Dashboard" />
 </p>
 
 **Built in Excel using:**
