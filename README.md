@@ -44,7 +44,18 @@ I'm curious, detail-oriented, and always eager to learn and improve. I love find
 - **Soft Skills**: Problem solving, teamwork, clear communication
 
 ---
+### 👟 Nike Sales Dashboard (Excel)
 
+<p align="center">
+  <img src="NikeDataAnalysis.png" width="600" alt="Nike Excel Dashboard" />
+</p>
+
+**Built in Excel using:**
+- Pivot Tables & Charts
+- Slicers for product filtering
+- Conditional formatting for KPIs
+
+[📎 Download Excel file](./SourceNike.xlsx)
 ### 📫 How to reach me
 
 - 📧 Email: [yascnay@gmail.com](mailto:yascnay@gmail.com)
