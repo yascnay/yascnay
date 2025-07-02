@@ -52,6 +52,7 @@ I'm curious, detail-oriented, and always eager to learn and improve. I love find
 </td>
 <td style="width: 50%;">
 <h3>👥 Human Resources Dashboard (Excel)</h3>
+
 <p align="left">
   <img src="HumanResourcesAnalysis.png" width="300" alt="Human Resources Excel Dashboard" />
 </p> 
