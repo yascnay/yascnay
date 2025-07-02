@@ -55,7 +55,7 @@ I'm curious, detail-oriented, and always eager to learn and improve. I love find
   This dashboard provides insights into employee distribution, salary clusters, evaluation scores, and department performance. Built in Excel with dynamic filters and professional visual design.
 </p>
  <p align="left">
-  <img src="HumanResourcesAnalysis.png" width="300" alt="Nike Excel Dashboard" />
+  <img src="HumanResourcesAnalysis.png" width="300" alt="Human Resources Excel Dashboard" />
 </p> 
 </td>
 <tr>
@@ -80,11 +80,11 @@ I'm curious, detail-oriented, and always eager to learn and improve. I love find
 </tr>
 <tr>
   <td>
-[📎 Download Excel file](https://github.com/yascnay/ExamplesExcel/blob/main)
+📎 <a href="https://github.com/yascnay/ExamplesExcel/blob/main">Download Excel File</a>
   </td>
   <td>
     <p>
-  📎 <a href="https://github.com/yascnay/ExamplesExcel/raw/main/HumanResourcesDashboard.xlsx">Download Excel File</a>
+  📎 <a href="https://github.com/yascnay/ExamplesExcel/blob/main">Download Excel File</a>
     </p>
   </td>
 </tr>
