@@ -55,7 +55,7 @@ I'm curious, detail-oriented, and always eager to learn and improve. I love find
 - Slicers for product filtering
 - Conditional formatting for KPIs
 
-[📎 Download Excel file](./ExamplesExcel/blob/main/SourceNike.xlsx)
+[📎 Download Excel file](./SourceNike.xlsx)
 ### 📫 How to reach me
 
 - 📧 Email: [yascnay@gmail.com](mailto:yascnay@gmail.com)
