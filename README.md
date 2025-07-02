@@ -55,7 +55,7 @@ I'm curious, detail-oriented, and always eager to learn and improve. I love find
   This dashboard provides insights into employee distribution, salary clusters, evaluation scores, and department performance. Built in Excel with dynamic filters and professional visual design.
 </p>
  <p align="left">
-  <img src="nike_dashboard.png" width="300" alt="Nike Excel Dashboard" />
+  <img src="HumanResourcesAnalysis.png" width="300" alt="Nike Excel Dashboard" />
 </p> 
 </td>
 <tr>
