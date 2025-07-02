@@ -50,12 +50,14 @@ I'm curious, detail-oriented, and always eager to learn and improve. I love find
   <img src="nike_dashboard.png" width="300" alt="Nike Excel Dashboard" />
 </p>
 </td>
-<td style="width: 50%;>
+<td style="width: 50%;">
 <h3>👥 Human Resources Dashboard (Excel)</h3>
 <p align="left">
   <img src="HumanResourcesAnalysis.png" width="300" alt="Human Resources Excel Dashboard" />
 </p> 
 </td>
+</tr>
+
 <tr>
 <td>
 <p><strong>Built in Excel using:</strong></p>
