@@ -42,19 +42,17 @@ I'm curious, detail-oriented, and always eager to learn and improve. I love find
 - **Data Visualization**: Power BI, Excel Dashboards
 - **Reporting & Automation**: ETL processes, ad hoc reports, automation with Python
 - **Soft Skills**: Problem solving, teamwork, clear communication
-<table style="width:100%">
+<table style="width:100%;">
 <tr>
-<td>
+<td style="width: 50%;">
  <h3>👟 Nike Sales Dashboard (Excel)</h3>
 <p align="left">
   <img src="nike_dashboard.png" width="300" alt="Nike Excel Dashboard" />
 </p>
 </td>
-<td><h3>👥 Human Resources Dashboard (Excel)</h3>
-<p>
-  This dashboard provides insights into employee distribution, salary clusters, evaluation scores, and department performance. Built in Excel with dynamic filters and professional visual design.
-</p>
- <p align="left">
+<td style="width: 50%;>
+<h3>👥 Human Resources Dashboard (Excel)</h3>
+<p align="left">
   <img src="HumanResourcesAnalysis.png" width="300" alt="Human Resources Excel Dashboard" />
 </p> 
 </td>
