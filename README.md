@@ -45,10 +45,18 @@ I'm curious, detail-oriented, and always eager to learn and improve. I love find
 <table style="width:100%">
 <tr>
 <td>
- 👟 Nike Sales Dashboard (Excel)
+ <h3>👟 Nike Sales Dashboard (Excel)</h3>
 <p align="left">
   <img src="nike_dashboard.png" width="300" alt="Nike Excel Dashboard" />
 </p>
+</td>
+<td><h3>👥 Human Resources Dashboard (Excel)</h3>
+<p>
+  This dashboard provides insights into employee distribution, salary clusters, evaluation scores, and department performance. Built in Excel with dynamic filters and professional visual design.
+</p>
+ <p align="left">
+  <img src="nike_dashboard.png" width="300" alt="Nike Excel Dashboard" />
+</p> 
 </td>
 <tr>
 <td>
@@ -59,10 +67,25 @@ I'm curious, detail-oriented, and always eager to learn and improve. I love find
   <li>Conditional formatting for KPIs</li>
 </ul>
 </td>
+<td>
+  <p>
+  <strong>Built in Excel using:</strong>
+</p>
+<ul>
+  <li>Pivot Tables &amp; Charts</li>
+  <li>Slicers for region and department filters</li>
+  <li>Quartile and distribution analysis</li>
+</ul>
+</td>
 </tr>
 <tr>
   <td>
 [📎 Download Excel file](https://github.com/yascnay/ExamplesExcel/blob/main)
+  </td>
+  <td>
+    <p>
+  📎 <a href="https://github.com/yascnay/ExamplesExcel/raw/main/HumanResourcesDashboard.xlsx">Download Excel File</a>
+    </p>
   </td>
 </tr>
 </table>
