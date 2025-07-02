@@ -52,10 +52,12 @@ I'm curious, detail-oriented, and always eager to learn and improve. I love find
 </td>
 <tr>
 <td>
-**Built in Excel using:**
-- Pivot Tables & Charts
-- Slicers for product filtering
-- Conditional formatting for KPIs
+<p><strong>Built in Excel using:</strong></p>
+<ul>
+  <li>Pivot Tables &amp; Charts</li>
+  <li>Slicers for product filtering</li>
+  <li>Conditional formatting for KPIs</li>
+</ul>
 </td>
 </tr>
 <tr>
