@@ -42,21 +42,30 @@ I'm curious, detail-oriented, and always eager to learn and improve. I love find
 - **Data Visualization**: Power BI, Excel Dashboards
 - **Reporting & Automation**: ETL processes, ad hoc reports, automation with Python
 - **Soft Skills**: Problem solving, teamwork, clear communication
-
----
-### 👟 Nike Sales Dashboard (Excel)
-
-<p align="center">
+<table style="width:100%">
+<tr>
+<td>
+ 👟 Nike Sales Dashboard (Excel)
+<p align="left">
   <img src="nike_dashboard.png" width="300" alt="Nike Excel Dashboard" />
 </p>
-
+</td>
+<tr>
+<td>
 **Built in Excel using:**
 - Pivot Tables & Charts
 - Slicers for product filtering
 - Conditional formatting for KPIs
-
+</td>
+</tr>
+<tr>
+  <td>
 [📎 Download Excel file](https://github.com/yascnay/ExamplesExcel/blob/main)
-### 📫 How to reach me
+  </td>
+</tr>
+</table>
+
+  ### 📫 How to reach me
 
 - 📧 Email: [yascnay@gmail.com](mailto:yascnay@gmail.com)
 - 💼 LinkedIn:[linkedin.com/in/yascnay-izquierdo/](https://linkedin.com/in/yascnay-izquierdo/)
