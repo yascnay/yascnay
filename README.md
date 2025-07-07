@@ -61,6 +61,10 @@ I'm especially focused on:
 - 🗃️ Designed SQL databases and optimized queries for reporting in a web-based system.
 
 ---
+### 🏅 Certification
+
+[<img src="assets/badges/google-data-analytics.png" width="120" alt="Google Data Analytics Badge"/>](https://www.credly.com/badges/1da327a7-a1f7-4391-9678-661b3cce7e8e/linked_in?t=sm6p90)
+---
 
 ### 🛠️ Technical Skills
 
