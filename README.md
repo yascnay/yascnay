@@ -2,14 +2,31 @@
 <h1 align="center">Hi there, I'm Yascnay Izquierdo 👋</h1>
 
 <p align="center">
-  Junior Data Analyst | Python Enthusiast | Power BI Developer
+  Junior Data Analyst | Python Enthusiast | Power BI Developer | Junior Reporting Analyst | SQL Data Assistant
 </p>
 
 <p align="center">
   <a href="https://github.com/yascnay"><img src="https://img.shields.io/github/followers/yascnay?label=Follow&style=social" alt="GitHub followers"></a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/SQL-005C84?style=flat&logo=postgresql&logoColor=white" alt="SQL Badge"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Badge"/>
+  <!-- SQL Server -->
+<img src="https://img.shields.io/badge/SQL%20Server-0B1D51?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Badge"/>
+
+<!-- Power BI -->
+<img src="https://img.shields.io/badge/Power%20BI-8DBCC7?style=flat&logo=powerbi&logoColor=black" alt="Power BI Badge"/>
+
+<!-- Excel -->
+<img src="https://img.shields.io/badge/Excel-3674B5?style=flat&logo=microsoftexcel&logoColor=white" alt="Excel Badge"/>
+
+<!-- Python -->
+<img src="https://img.shields.io/badge/Python-00809D?style=flat&logo=python&logoColor=white" alt="Python Badge"/>
+
+<!-- Git -->
+<img src="https://img.shields.io/badge/Git-4DA8DA?style=flat&logo=git&logoColor=white" alt="Git Badge"/>
+
+<!-- Visual Studio Code -->
+<img src="https://img.shields.io/badge/VS%20Code-5459AC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code Badge"/>
+
+<!-- Windows -->
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows Badge"/>
 </p>
 
 ---
@@ -27,7 +44,16 @@ I'm proficient in:
 I'm curious, detail-oriented, and always eager to learn and improve. I love finding ways to simplify and automate tasks to save time and increase efficiency.
 
 ---
+### 🚀 Currently Learning
+<img src="https://img.shields.io/badge/Advanced%20DAX-DA6C6C?style=flat&logo=powerbi&logoColor=F2C811" alt="Advanced DAX Badge"/>
+📘 I'm currently deepening my knowledge of Advanced DAX to create more dynamic, optimized, and insightful Power BI dashboards.
+I'm especially focused on:
 
+- Time intelligence functions
+- Context transitions (row vs. filter)
+- Performance optimization in complex models
+  
+---
 ### 💼 Recent Projects
 
 - 🧾 Automated sales data extraction for a restaurant chain using Python — reduced processing time from 30 minutes to seconds.
