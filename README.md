@@ -65,7 +65,7 @@ I'm especially focused on:
 
 [<img src="https://github.com/yascnay/yascnay/blob/main/BadgetCoursera.png" width="120" alt="Google Data Analytics Badge"/>](https://www.credly.com/badges/1da327a7-a1f7-4391-9678-661b3cce7e8e)
 
-**Google Data Analytics Professional Certificate (Coursera)**
+[**Google Data Analytics Professional Certificate (Coursera)**](https://www.coursera.org/account/accomplishments/professional-cert/XL2M5VUZIYZZ)
 - Capstone: Complete a Case Study.
 - Share Data Through the Art of Visualization.
 - Prepare Data for Exploration.
