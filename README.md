@@ -63,7 +63,7 @@ I'm especially focused on:
 ---
 ### 🏅 Certification
 
-[<img src="badgetcoursera.png" width="120" alt="Google Data Analytics Badge"/>](https://www.credly.com/badges/1da327a7-a1f7-4391-9678-661b3cce7e8e)
+[<img src="https://github.com/yascnay/yascnay/blob/main/BadgetCoursera.png" width="120" alt="Google Data Analytics Badge"/>](https://www.credly.com/badges/1da327a7-a1f7-4391-9678-661b3cce7e8e)
 ---
 
 ### 🛠️ Technical Skills
