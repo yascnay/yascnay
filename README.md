@@ -1,4 +1,6 @@
-
+<div align = "center">
+  <img src="https://github.com/yascnay/yascnay/blob/main/BannerYascnay.png" width="100%" alt=""/>
+</div>
 <h1 align="center">Hi there, I'm Yascnay Izquierdo 👋</h1>
 
 <p align="center">
