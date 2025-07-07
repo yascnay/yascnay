@@ -16,7 +16,7 @@
 
 ### 🔍 About Me
 
-I'm a Junior Data Analyst with 20 years of experience in the technology industry, and the last 4 years fully focused on developing data analytics skills. I enjoy transforming raw data into clear, actionable insights to help organizations make better decisions.
+I'm a technology professional with over 20 years of experience designing, developing, and maintaining data-driven systems. In recent years, I've focused on expanding my skills in data analytics, automation, and database optimization. I enjoy building solutions that make information easier to understand, access, and use—whether through clean data models, reliable processes, or simple visualizations. I'm passionate about continuous learning and always open to exploring new tools, technologies, and ways to solve real-world problems.
 
 I'm proficient in:
 - **Power BI** (including DAX and Power Query)
