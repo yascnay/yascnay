@@ -147,7 +147,7 @@ Key features:
 
 🔗 [**View Live Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZjNiNmEyYTYtNTljOC00OWZlLThjMTItNzk5ZjY0Y2VjMmNiIiwidCI6IjUxNDdjNmY1LTJkMmUtNDEyMS05NWYyLTY5YWZhMTFkODgxYyIsImMiOjJ9)
 
-[![Viral Dashboard Preview](./images/viral-dashboard-preview.png)](https://app.powerbi.com/view?r=eyJrIjoiZjNiNmEyYTYtNTljOC00OWZlLThjMTItNzk5ZjY0Y2VjMmNiIiwidCI6IjUxNDdjNmY1LTJkMmUtNDEyMS05NWYyLTY5YWZhMTFkODgxYyIsImMiOjJ9)
+[![Viral Dashboard Preview](https://github.com/yascnay/yascnay/blob/main/PBIProjectSMViral.png)](https://app.powerbi.com/view?r=eyJrIjoiZjNiNmEyYTYtNTljOC00OWZlLThjMTItNzk5ZjY0Y2VjMmNiIiwidCI6IjUxNDdjNmY1LTJkMmUtNDEyMS05NWYyLTY5YWZhMTFkODgxYyIsImMiOjJ9)
 
   ### 📫 How to reach me
 
