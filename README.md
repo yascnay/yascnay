@@ -145,9 +145,7 @@ Key features:
 - 🔎 **Hashtag performance** and shifts in user interest  
 - ✅ Clear storytelling with visuals for strategic decision-making  
 
-🔗 [**View Live Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZjNiNmEyYTYtNTljOC00OWZlLThjMTItNzk5ZjY0Y2VjMmNiIiwidCI6IjUxNDdjNmY1LTJkMmUtNDEyMS05NWYyLTY5YWZhMTFkODgxYyIsImMiOjJ9)
-
-[![Viral Dashboard Preview](https://github.com/yascnay/yascnay/blob/main/PBIProjectSMViral.png)](https://app.powerbi.com/view?r=eyJrIjoiZjNiNmEyYTYtNTljOC00OWZlLThjMTItNzk5ZjY0Y2VjMmNiIiwidCI6IjUxNDdjNmY1LTJkMmUtNDEyMS05NWYyLTY5YWZhMTFkODgxYyIsImMiOjJ9)
+[<img src="https://github.com/yascnay/yascnay/blob/main/PBIProjectSMViral.png" width="400" alt="Viral Social Media Post"/>](https://app.powerbi.com/view?r=eyJrIjoiZjNiNmEyYTYtNTljOC00OWZlLThjMTItNzk5ZjY0Y2VjMmNiIiwidCI6IjUxNDdjNmY1LTJkMmUtNDEyMS05NWYyLTY5YWZhMTFkODgxYyIsImMiOjJ9)
 
   ### 📫 How to reach me
 
