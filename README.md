@@ -133,7 +133,8 @@ I'm especially focused on:
   </td>
 </tr>
 </table>
-## 📊 Viral Social Media Post – Power BI Dashboard
+
+### 📊 Viral Social Media Post – Power BI Dashboard
 
 This interactive Power BI dashboard explores how users engage with content across platforms like TikTok, Instagram, Twitter, and YouTube.  
 It analyzes post types, user interactions (likes, comments, shares), top-performing hashtags, and regional engagement patterns over 2022 and 2023.
