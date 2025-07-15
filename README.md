@@ -86,7 +86,7 @@ I'm especially focused on:
 
 ### 🛠️ Technical Skills
 
-- **Data Analysis**: SQL Server, Excel (Power Pivot, Power Query), Python (pandas, matplotlib)
+- **Data Analysis**: SQL Server, Excel (Power Pivot, Power Query), Python (Pandas, Selenium, OCR tools:pytesseract, pdfplumber, pdf2image, PyMuPDF)
 - **Data Visualization**: Power BI, Excel Dashboards
 - **Reporting & Automation**: ETL processes, ad hoc reports, automation with Python
 - **Soft Skills**: Problem solving, teamwork, clear communication
