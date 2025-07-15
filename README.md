@@ -4,7 +4,7 @@
 <h1 align="center">Hi there, I'm Yascnay Izquierdo 👋</h1>
 
 <p align="center">
-  Junior Data Analyst | Python Enthusiast | Power BI Developer | Junior Reporting Analyst | SQL Data Assistant
+  Junior Data Analyst | Python Enthusiast | Power BI Developer | Junior Reporting Analyst | SQL Data Assistant | Programmer-Analyst
 </p>
 
 <p align="center">
@@ -29,7 +29,12 @@
 
 <!-- Windows -->
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows Badge"/>
+<!-- CSS -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge">
+<!-- HTML -->
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 badge">
 </p>
+
 
 ---
 
