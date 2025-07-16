@@ -51,12 +51,7 @@ I'm proficient in:
 I'm curious, detail-oriented, and always eager to learn and improve. I love finding ways to simplify and automate tasks to save time and increase efficiency.
 
 ---
-## 🌐 Portfolio Web
 
-🚀 Check out my personal portfolio under construction here:  
-👉 [https://yascnay.github.io/PersonalPortfolio](https://yascnay.github.io/PersonalPortfolio/)
-
----
 ### 🚀 Currently Learning
 <img src="https://img.shields.io/badge/Advanced%20DAX-DA6C6C?style=flat&logo=powerbi&logoColor=F2C811" alt="Advanced DAX Badge"/>
 📘 I'm currently deepening my knowledge of Advanced DAX to create more dynamic, optimized, and insightful Power BI dashboards.
